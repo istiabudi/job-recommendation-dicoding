@@ -52,11 +52,13 @@ Berdasarkan data tersebut variabel-variabel pada Job Recommendation Dataset adal
 
 ### EDA
 
-!g1
+![pie chart](https://github.com/user-attachments/assets/b4bf3144-0fdf-4889-8454-ab9a52d4e5ba)
+
 
 Jumlah pekerjaan yang tersedia cukup merata, pekerjaan di industri Sofware merupakan industri yang paling banyak membuka lowongan pekerjaan sebanyak 7302.
 
-!g2
+![barplot](https://github.com/user-attachments/assets/91a6d567-02d3-4b90-8901-f8529cb4d301)
+
 
 Berdasarkan barplot diatas, rata-rata gaji setiap industri hampir sama yaitu kurang lebih 95k USD. Perusahaan yang memberikan gaji tertinggi adalah perusahaan di industri Sofware dengan rata-rata 95606.272254 USD.
 
